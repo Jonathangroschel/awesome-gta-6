@@ -10,7 +10,7 @@ last_updated: 2026-11-20
 
 ## Is GTA 6 on PC?
 
-**No. As of November 20, 2026, GTA 6 is only on PS5 and Xbox Series X|S.** Rockstar has not announced a PC version or a PC release date.
+**No. As of November 20, 2026, GTA 6 is only on PS5 and Xbox Series X\|S.** Rockstar has not announced a PC version or a PC release date.
 
 > ⚠️ **Any "GTA 6 PC download" is fake.** Security researchers have flagged fake "cracked" Windows builds that carry malware.
 

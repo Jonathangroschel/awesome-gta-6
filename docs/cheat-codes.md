@@ -6,7 +6,7 @@ permalink: /cheat-codes
 last_updated: 2026-11-20
 ---
 
-# GTA 6 Cheat Codes (PS5 & Xbox Series X|S)
+# GTA 6 Cheat Codes (PS5 & Xbox Series X\|S)
 
 **Grand Theft Auto VI has 61 cheats.** They unlock only **after you finish the main story**, and each one also has its own challenge (shown under **Progress menu → Cheats**). As of November 20, 2026, the button inputs for **19** are public. The rest are still being found.
 

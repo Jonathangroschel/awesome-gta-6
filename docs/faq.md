@@ -36,7 +36,7 @@ faq:
 {% for item in page.faq %}
 ### {{ item.q }}
 
-{{ item.a }}
+{{ item.a | replace: "|", "&#124;" }}
 {% endfor %}
 
 ---

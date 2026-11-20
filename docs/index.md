@@ -8,7 +8,7 @@ last_updated: 2026-11-20
 
 # Awesome GTA 6: The Open-Source Grand Theft Auto VI Hub
 
-GTA 6 is **out now on PS5 and Xbox Series X|S** (launched November 19, 2026). This community-maintained guide collects everything in one place, with every fact dated and sourced.
+GTA 6 is **out now on PS5 and Xbox Series X\|S** (launched November 19, 2026). This community-maintained guide collects everything in one place, with every fact dated and sourced.
 
 ## Quick answers
 

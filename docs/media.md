@@ -28,7 +28,7 @@ Every link below goes to **Rockstar's official pages**, so you get full-quality 
 
 ## Technical & comparison videos
 
-- [Digital Foundry](https://www.youtube.com/@DigitalFoundry): graphics and performance breakdowns for PS5, PS5 Pro and Xbox Series X|S
+- [Digital Foundry](https://www.youtube.com/@DigitalFoundry): graphics and performance breakdowns for PS5, PS5 Pro and Xbox Series X\|S
 - [GTA Series Videos](https://www.youtube.com/@GTASeriesVideos): comparisons and full walkthroughs
 
 > **Safety tip:** sites offering a "GTA 6 PC download" or "cracked" build are scams, and some spread malware. There is no PC version.
