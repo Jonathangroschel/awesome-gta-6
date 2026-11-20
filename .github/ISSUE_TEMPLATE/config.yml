@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Rockstar Support (game bugs, account or purchase problems)
+    url: https://support.rockstargames.com
+    about: This project can't help with your game or account. Contact Rockstar directly.

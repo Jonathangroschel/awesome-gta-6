@@ -1,0 +1,24 @@
+name: Validate data
+
+on:
+  push:
+    branches: [main]
+    paths: ["data/**", "docs/**", "scripts/**"]
+  pull_request:
+    paths: ["data/**", "docs/**", "scripts/**"]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: JSON is valid
+        run: for f in data/*.json; do python3 -m json.tool "$f" > /dev/null && echo "ok $f"; done
+      - name: Generated tables match the JSON
+        run: python3 scripts/build_docs.py --check

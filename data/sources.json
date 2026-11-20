@@ -1,0 +1,193 @@
+{
+  "updated": "2026-11-20",
+  "tiers": {
+    "official": [
+      {
+        "name": "Rockstar Games – GTA VI",
+        "url": "https://www.rockstargames.com/VI",
+        "description": "Official game page: overview, characters (Jason Duval & Lucia Caminos), Leonida",
+        "category": "portal"
+      },
+      {
+        "name": "Official Media Hub",
+        "url": "https://www.rockstargames.com/VI/media",
+        "description": "All official trailers, screenshots, artwork and wallpapers",
+        "category": "media"
+      },
+      {
+        "name": "Official Videos",
+        "url": "https://www.rockstargames.com/VI/media/videos",
+        "description": "Trailers and gameplay videos",
+        "category": "media"
+      },
+      {
+        "name": "Official Screenshots",
+        "url": "https://www.rockstargames.com/VI/media/screenshots",
+        "description": "High-resolution in-game screenshots",
+        "category": "media"
+      },
+      {
+        "name": "Official Artwork & Wallpapers",
+        "url": "https://www.rockstargames.com/VI/media/artwork-wallpapers",
+        "description": "Desktop and mobile wallpapers, key art",
+        "category": "media"
+      },
+      {
+        "name": "Official Downloads",
+        "url": "https://www.rockstargames.com/VI/downloads",
+        "description": "Downloadable official assets",
+        "category": "media"
+      },
+      {
+        "name": "GTA VI Launch Gallery",
+        "url": "https://www.rockstargames.com/VI/launch-gallery",
+        "description": "Official launch screenshot gallery",
+        "category": "media"
+      },
+      {
+        "name": "Rockstar Newswire",
+        "url": "https://www.rockstargames.com/newswire",
+        "description": "Official news, title updates and patch notes",
+        "category": "news"
+      },
+      {
+        "name": "Rockstar Games on YouTube",
+        "url": "https://www.youtube.com/@RockstarGames",
+        "description": "Official trailers",
+        "category": "media"
+      },
+      {
+        "name": "Rockstar Games on X",
+        "url": "https://x.com/RockstarGames",
+        "description": "Real-time announcements",
+        "category": "news"
+      },
+      {
+        "name": "Rockstar Support",
+        "url": "https://support.rockstargames.com",
+        "description": "Server status, known issues, troubleshooting",
+        "category": "support"
+      }
+    ],
+    "verified": [
+      {
+        "name": "IGN GTA 6 Guide",
+        "url": "https://www.ign.com/wikis/gta-6",
+        "description": "Wiki with mission walkthroughs, weapons and vehicles",
+        "category": "guide"
+      },
+      {
+        "name": "MapGenie GTA 6 Map",
+        "url": "https://mapgenie.io/grand-theft-auto-6",
+        "description": "Interactive Leonida map with collectible markers",
+        "category": "map"
+      },
+      {
+        "name": "PowerPyx",
+        "url": "https://www.powerpyx.com",
+        "description": "Trophy/achievement guides and 100% checklists",
+        "category": "guide"
+      },
+      {
+        "name": "GamesRadar+ Mission List",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-mission-list/",
+        "description": "Every main mission and chapter",
+        "category": "guide"
+      },
+      {
+        "name": "Red Bull Mission List",
+        "url": "https://www.redbull.com/us-en/gta-6-complete-mission-list",
+        "description": "Complete mission list by chapter",
+        "category": "guide"
+      },
+      {
+        "name": "Gamer Tweak Cheats",
+        "url": "https://gamertweak.com/cheat-codes-gta-6/",
+        "description": "All 61 cheats with unlock requirements",
+        "category": "cheats"
+      },
+      {
+        "name": "Game Rant Cheats",
+        "url": "https://gamerant.com/all-grand-theft-auto-vi-gta-6-cheat-codes-list/",
+        "description": "Cheat inputs and unlock conditions",
+        "category": "cheats"
+      },
+      {
+        "name": "Dexerto Cheats",
+        "url": "https://www.dexerto.com/wikis/gta-6/cheat-codes/",
+        "description": "Cheat list by category",
+        "category": "cheats"
+      },
+      {
+        "name": "GTA Series Videos",
+        "url": "https://www.youtube.com/@GTASeriesVideos",
+        "description": "No-commentary walkthroughs and comparisons",
+        "category": "video"
+      },
+      {
+        "name": "Digital Foundry",
+        "url": "https://www.youtube.com/@DigitalFoundry",
+        "description": "Technical analysis and console performance",
+        "category": "video"
+      },
+      {
+        "name": "GTABase",
+        "url": "https://www.gtabase.com/grand-theft-auto-vi/",
+        "description": "Vehicle, weapon and property database",
+        "category": "database"
+      }
+    ],
+    "unconfirmed": [
+      {
+        "name": "r/GamingLeaksAndRumours",
+        "url": "https://www.reddit.com/r/GamingLeaksAndRumours/",
+        "description": "Aggregated insider claims and leaks",
+        "category": "rumors"
+      },
+      {
+        "name": "Insider Gaming",
+        "url": "https://insider-gaming.com",
+        "description": "Industry reporting on post-launch plans",
+        "category": "rumors"
+      },
+      {
+        "name": "Tez2 on X",
+        "url": "https://x.com/TezFunz2",
+        "description": "Long-time GTA dataminer",
+        "category": "datamining"
+      },
+      {
+        "name": "GTAForums",
+        "url": "https://gtaforums.com",
+        "description": "Datamining and long-form discussion threads",
+        "category": "datamining"
+      }
+    ],
+    "community": [
+      {
+        "name": "r/GTA6",
+        "url": "https://www.reddit.com/r/GTA6/",
+        "description": "Main GTA 6 subreddit",
+        "category": "community"
+      },
+      {
+        "name": "r/GTA",
+        "url": "https://www.reddit.com/r/GTA/",
+        "description": "General Grand Theft Auto subreddit",
+        "category": "community"
+      },
+      {
+        "name": "r/rockstar",
+        "url": "https://www.reddit.com/r/rockstar/",
+        "description": "Rockstar Games subreddit",
+        "category": "community"
+      },
+      {
+        "name": "GTA Wiki (Fandom)",
+        "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI",
+        "description": "Crowdsourced lore encyclopedia",
+        "category": "wiki"
+      }
+    ]
+  }
+}

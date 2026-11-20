@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1a0b2e"/>
+      <stop offset="0.45" stop-color="#5b1a6b"/>
+      <stop offset="0.75" stop-color="#e8437a"/>
+      <stop offset="1" stop-color="#ff9a4d"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd36e"/>
+      <stop offset="1" stop-color="#ff4fa3"/>
+    </linearGradient>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2a0f3d"/>
+      <stop offset="1" stop-color="#0b0614"/>
+    </linearGradient>
+    <clipPath id="sunclip"><rect x="0" y="0" width="1280" height="470"/></clipPath>
+  </defs>
+  <rect width="1280" height="640" fill="url(#sky)"/>
+  <g clip-path="url(#sunclip)">
+    <circle cx="640" cy="470" r="210" fill="url(#sun)"/>
+    <g fill="#5b1a6b" opacity="0.55">
+      <rect x="400" y="380" width="480" height="8"/>
+      <rect x="400" y="408" width="480" height="11"/>
+      <rect x="400" y="436" width="480" height="14"/>
+    </g>
+  </g>
+  <rect y="470" width="1280" height="170" fill="url(#sea)"/>
+  <g stroke="#ff4fa3" stroke-opacity="0.35" stroke-width="2">
+    <line x1="0" y1="500" x2="1280" y2="500"/>
+    <line x1="0" y1="540" x2="1280" y2="540"/>
+    <line x1="0" y1="595" x2="1280" y2="595"/>
+    <line x1="640" y1="470" x2="0" y2="640"/>
+    <line x1="640" y1="470" x2="320" y2="640"/>
+    <line x1="640" y1="470" x2="960" y2="640"/>
+    <line x1="640" y1="470" x2="1280" y2="640"/>
+  </g>
+  <!-- palm silhouettes -->
+  <g fill="#0b0614">
+    <path d="M150 470 C155 380 165 300 185 230 L193 232 C176 300 168 380 166 470 Z"/>
+    <path d="M188 232 C150 205 105 205 70 225 C110 210 150 215 186 240 Z"/>
+    <path d="M188 232 C215 195 260 185 300 195 C262 200 225 212 192 242 Z"/>
+    <path d="M188 232 C160 245 130 275 118 310 C140 280 168 258 194 245 Z"/>
+    <path d="M188 232 C220 245 250 275 262 310 C240 282 212 260 186 246 Z"/>
+    <path d="M188 232 C185 200 175 175 158 160 C178 172 192 195 196 232 Z"/>
+    <path d="M1120 470 C1116 390 1104 320 1086 260 L1078 262 C1094 322 1104 392 1104 470 Z"/>
+    <path d="M1082 262 C1112 232 1155 225 1192 238 C1152 232 1115 242 1086 270 Z"/>
+    <path d="M1082 262 C1052 228 1010 220 975 232 C1012 230 1048 244 1080 272 Z"/>
+    <path d="M1082 262 C1108 278 1132 305 1140 338 C1122 310 1100 290 1078 276 Z"/>
+    <path d="M1082 262 C1056 278 1032 305 1024 338 C1042 310 1064 290 1086 276 Z"/>
+  </g>
+  <text x="640" y="150" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-weight="800" font-size="40" letter-spacing="14" fill="#ffd36e">AWESOME</text>
+  <text x="640" y="290" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-weight="900" font-size="150" fill="#ffffff" stroke="#ff4fa3" stroke-width="4" paint-order="stroke">GTA 6</text>
+  <text x="640" y="345" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-weight="600" font-size="30" fill="#ffffff">Cheats · Missions · News · Map · Media</text>
+  <text x="640" y="610" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="20" fill="#ffffff" fill-opacity="0.7">Open-source Grand Theft Auto VI guide · fan-made, not affiliated with Rockstar Games</text>
+</svg>

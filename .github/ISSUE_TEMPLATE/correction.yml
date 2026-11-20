@@ -1,0 +1,21 @@
+name: 🛠️ Report wrong information
+description: Something on the list or site is incorrect or outdated
+title: "[Fix] "
+labels: ["correction"]
+body:
+  - type: input
+    id: where
+    attributes:
+      label: Page or section
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What's wrong and what's correct?
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source for the correction

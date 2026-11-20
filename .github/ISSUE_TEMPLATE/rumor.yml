@@ -1,0 +1,24 @@
+name: 🕵️ Submit a rumor or leak
+description: Add a rumor to the tracker. Links to reporting only, never leaked files.
+title: "[Rumor] "
+labels: ["rumor"]
+body:
+  - type: textarea
+    id: claim
+    attributes:
+      label: What is the claim?
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Where was it said? (link to the article or post)
+    validations:
+      required: true
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Rules
+      options:
+        - label: My link does not point to leaked files, builds or pirated content
+          required: true

@@ -1,0 +1,30 @@
+name: 📰 Submit news
+description: Patch notes, announcements, sales, server issues
+title: "[News] "
+labels: ["news"]
+body:
+  - type: input
+    id: date
+    attributes:
+      label: Date (YYYY-MM-DD)
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: One-line summary
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source link
+    validations:
+      required: true
+  - type: dropdown
+    id: confirmed
+    attributes:
+      label: Is it official?
+      options: ["Yes, from Rockstar / Take-Two / platform holder", "No, report, estimate or player claim"]
+    validations:
+      required: true

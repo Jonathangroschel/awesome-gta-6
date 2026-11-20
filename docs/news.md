@@ -1,0 +1,37 @@
+---
+title: "GTA 6 News Today: Latest Updates, Patches, Sales & Server Status"
+heading: GTA 6 News
+description: "Latest GTA 6 news, updated daily: patches and hotfixes, server status, sales figures, review scores, PC and GTA 6 Online updates. Every item is dated and sourced."
+permalink: /news
+last_updated: 2026-11-20
+---
+
+# GTA 6 News: Latest Updates
+
+Newest first. Every item has a date and a source. Estimates and player reports are marked **⚠️ Unconfirmed** until Rockstar or Take-Two confirm them.
+
+<!-- AUTO:START -->
+| Date | News | Status | Source |
+| :--- | :--- | :--- | :--- |
+| 2026-11-20 | Players report a first-person mode glitch; Rockstar has not commented | ⚠️ Unconfirmed / estimate | [happygamer.com](https://happygamer.com/gta-6-day-2-live-updates-176553/) |
+| 2026-11-20 | TmarTn2's video of stealing a fighter jet from a military base passes 5 million views in under a day | ✅ Confirmed | [happygamer.com](https://happygamer.com/gta-6-day-2-live-updates-176553/) |
+| 2026-11-19 | GTA 6 launches on PS5 and Xbox Series X\|S at midnight local time (US storefronts unlock on Eastern time) | ✅ Confirmed | [forbes.com](https://www.forbes.com/sites/brianmazique/2026/11/12/gta-6-unlocks-at-midnight-on-november-19-but-millions-of-americans-can-start-playing-the-night-before/) |
+| 2026-11-19 | Metacritic score of 99 with no mixed or negative critic reviews; user reviews open later | ✅ Confirmed | [shattered.io](https://shattered.io/gta-vi-reviews-game-informer-10-10-washington-post-four-stars/) |
+| 2026-11-19 | Sensor Tower estimates about 24.6 million copies and about $2.36 billion including preorders (third-party estimate, not confirmed by Take-Two) | ⚠️ Unconfirmed / estimate | [happygamer.com](https://happygamer.com/gta-6-day-2-live-updates-176553/) |
+| 2026-11-19 | Launch streams peak at about 7.91 million concurrent viewers | ⚠️ Unconfirmed / estimate | [scoop-mag.com](https://www.scoop-mag.com/gta-6-launch-records-viewers-data-traffic-and-revenue/) |
+| 2026-11-19 | PSN sign-in trouble in the first hours; PlayStation status page clear since | ✅ Confirmed | [happygamer.com](https://happygamer.com/gta-6-day-2-live-updates-176553/) |
+| 2026-11-19 | Players report a 602 MB update clears PS5 error CE-108255-1; no official Rockstar patch notes yet | ⚠️ Unconfirmed / estimate | [happygamer.com](https://happygamer.com/gta-6-day-2-live-updates-176553/) |
+| 2026-11-19 | Xbox Cloud Gaming streaming is live (runs on Series S settings) | ✅ Confirmed | [happygamer.com](https://happygamer.com/gta-6-day-2-live-updates-176553/) |
+| 2026-11-19 | Warning: 'GTA 6 PC download' and 'cracked' builds are fake; some carry malware. There is no PC version. | ✅ Confirmed | [happygamer.com](https://happygamer.com/gta-6-day-2-live-updates-176553/) |
+| 2025-11 | Rockstar moves the release to November 19, 2026 (after earlier targets of Fall 2025 and May 26, 2026) | ✅ Confirmed | [africa.espn.com](https://africa.espn.com/gaming/story/_/id/44965809/grand-theft-auto-vi-gta-6-release-date) |
+<!-- AUTO:END -->
+
+## Official places to check
+
+- [Rockstar Newswire](https://www.rockstargames.com/newswire): official announcements and patch notes
+- [Rockstar Support](https://support.rockstargames.com): server status and known issues
+- [@RockstarGames on X](https://x.com/RockstarGames)
+
+**Know of news we missed?** [Open a news issue](https://github.com/chinmaypaliwal1/awesome-gta-6/issues/new?template=news.yml) with a link.
+
+**Machine-readable:** [`data/news.json`](https://github.com/chinmaypaliwal1/awesome-gta-6/blob/main/data/news.json)

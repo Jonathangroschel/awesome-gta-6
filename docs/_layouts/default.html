@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#ff4fa3">
+    {% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% if page.faq %}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {% for q in page.faq %}{
+          "@type": "Question",
+          "name": {{ q.q | jsonify }},
+          "acceptedAnswer": { "@type": "Answer", "text": {{ q.a | jsonify }} }
+        }{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+      ]
+    }
+    </script>
+    {% endif %}
+  </head>
+  <body>
+    <header class="page-header" role="banner">
+      <h1 class="project-name">{{ page.heading | default: page.title | default: site.title }}</h1>
+      <h2 class="project-tagline">{{ page.description | default: site.description }}</h2>
+      <a href="{{ '/' | relative_url }}" class="btn">Home</a>
+      <a href="{{ '/cheat-codes' | relative_url }}" class="btn">Cheats</a>
+      <a href="{{ '/missions' | relative_url }}" class="btn">Missions</a>
+      <a href="{{ '/news' | relative_url }}" class="btn">News</a>
+      <a href="{{ '/faq' | relative_url }}" class="btn">FAQ</a>
+      <a href="{{ site.github_repo }}" class="btn">⭐ Star on GitHub</a>
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+
+      <footer class="site-footer">
+        <p>Last updated {{ page.last_updated | default: site.time | date: "%B %-d, %Y" }} ·
+        <a href="{{ site.github_repo }}/edit/main/docs/{{ page.path }}">Fix something on this page</a> ·
+        <a href="{{ site.github_repo }}/tree/main/data">JSON data</a></p>
+        <p class="site-footer-credits">Fan-made and not affiliated with Rockstar Games or Take-Two Interactive.
+        Grand Theft Auto, GTA and all related marks belong to their owners.</p>
+      </footer>
+    </main>
+  </body>
+</html>

@@ -1,0 +1,36 @@
+name: 🎮 Submit a cheat code
+description: Add a missing GTA 6 cheat input or fix an existing one
+title: "[Cheat] "
+labels: ["cheat"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Cheat name
+      placeholder: e.g. No Fall Damage
+    validations:
+      required: true
+  - type: input
+    id: input
+    attributes:
+      label: D-pad input
+      placeholder: e.g. Up, Down, Left, Right, ...
+    validations:
+      required: true
+  - type: input
+    id: unlock
+    attributes:
+      label: Unlock requirement
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Tested on
+      options: [PS5, PS5 Pro, Xbox Series X, Xbox Series S, Not tested myself]
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source (article, video or screenshot link)
+    validations:
+      required: true
