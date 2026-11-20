@@ -148,6 +148,6 @@ We list missions here and link to the best full walkthroughs rather than copying
 - [GamesRadar+ mission list](https://www.gamesradar.com/games/grand-theft-auto/gta-6-mission-list/)
 - [GTA Series Videos](https://www.youtube.com/@GTASeriesVideos): no-commentary video walkthroughs
 
-**Machine-readable:** [`data/missions.json`](https://github.com/chinmaypaliwal1/awesome-gta-6/blob/main/data/missions.json)
+**Machine-readable:** [`data/missions.json`](https://github.com/teekamsuthar/awesome-gta-6/blob/main/data/missions.json)
 
 **Sources:** [Red Bull](https://www.redbull.com/us-en/gta-6-complete-mission-list) · [GamesRadar+](https://www.gamesradar.com/games/grand-theft-auto/gta-6-mission-list/) · [TalkEsport](https://www.talkesport.com/gta-6/all-gta-6-chapters-missions-list/)

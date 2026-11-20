@@ -28,4 +28,4 @@ Rockstar hasn't published an official square-kilometre figure, and community mea
 
 ## Help wanted
 
-We're building a list of **regions, landmarks and their real-life Florida counterparts**. [Contribute here](https://github.com/chinmaypaliwal1/awesome-gta-6/blob/main/contributing.md).
+We're building a list of **regions, landmarks and their real-life Florida counterparts**. [Contribute here](https://github.com/teekamsuthar/awesome-gta-6/blob/main/contributing.md).

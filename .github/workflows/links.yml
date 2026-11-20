@@ -26,7 +26,7 @@ jobs:
             --fallback-extensions md
             --max-retries 3
             --timeout 30
-            --exclude "chinmaypaliwal1.github.io"
+            --exclude "teekamsuthar.com/awesome-gta-6"
             --exclude "localhost"
             --exclude "support.rockstargames.com"
             "./**/*.md" "./data/*.json"

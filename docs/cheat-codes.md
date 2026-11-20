@@ -117,8 +117,8 @@ The most-searched cheat is **$250,000**: ⬆️ ➡️ ⬇️ ⬅️ ⬆️ ⬅�
 
 ## Found a new code?
 
-Open a [**Submit a cheat** issue](https://github.com/chinmaypaliwal1/awesome-gta-6/issues/new?template=cheat.yml) with the input, the unlock requirement and a link or video. Codes reach ✅ once a second source confirms them.
+Open a [**Submit a cheat** issue](https://github.com/teekamsuthar/awesome-gta-6/issues/new?template=cheat.yml) with the input, the unlock requirement and a link or video. Codes reach ✅ once a second source confirms them.
 
-**Machine-readable:** [`data/cheats.json`](https://github.com/chinmaypaliwal1/awesome-gta-6/blob/main/data/cheats.json)
+**Machine-readable:** [`data/cheats.json`](https://github.com/teekamsuthar/awesome-gta-6/blob/main/data/cheats.json)
 
 **Sources:** [Gamer Tweak](https://gamertweak.com/cheat-codes-gta-6/) · [Game Rant](https://gamerant.com/all-grand-theft-auto-vi-gta-6-cheat-codes-list/) · [Dexerto](https://www.dexerto.com/wikis/gta-6/cheat-codes/)
