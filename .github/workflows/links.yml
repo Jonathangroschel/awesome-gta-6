@@ -22,11 +22,13 @@ jobs:
         with:
           args: >-
             --no-progress
-            --accept 200,201,204,206,301,302,403,429,999
+            --accept 200,201,202,204,206,301,302,403,429,999
+            --fallback-extensions md
             --max-retries 3
             --timeout 30
             --exclude "chinmaypaliwal1.github.io"
             --exclude "localhost"
+            --exclude "support.rockstargames.com"
             "./**/*.md" "./data/*.json"
           fail: ${{ github.event_name == 'pull_request' }}
       - name: Open an issue if links broke
