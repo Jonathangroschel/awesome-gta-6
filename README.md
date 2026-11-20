@@ -1,19 +1,19 @@
 <div align="center">
 
-<a href="https://chinmaypaliwal1.github.io/awesome-gta-6/"><img src="assets/banner.png" alt="Awesome GTA 6: Grand Theft Auto VI cheats, missions, news, map and media" width="100%"></a>
+<a href="https://www.teekamsuthar.com/awesome-gta-6/"><img src="assets/banner.png" alt="Awesome GTA 6: Grand Theft Auto VI cheats, missions, news, map and media" width="100%"></a>
 
 # Awesome GTA 6
 
 **The open-source Grand Theft Auto VI guide: GTA 6 cheat codes, the full mission list, daily news, official trailers & wallpapers, the Leonida map, and PC & GTA 6 Online trackers, with free JSON data.**
 
 [![Status](https://img.shields.io/badge/GTA%206-Out%20Now%20(Nov%2019%2C%202026)-brightgreen)](https://www.rockstargames.com/VI)
-[![Cheats](https://img.shields.io/badge/Cheats-61%20listed%20%C2%B7%2019%20inputs-ff4fa3)](https://chinmaypaliwal1.github.io/awesome-gta-6/cheat-codes)
-[![Missions](https://img.shields.io/badge/Missions-91-orange)](https://chinmaypaliwal1.github.io/awesome-gta-6/missions)
-[![Last commit](https://img.shields.io/github/last-commit/chinmaypaliwal1/awesome-gta-6?label=updated)](https://github.com/chinmaypaliwal1/awesome-gta-6/commits/main)
+[![Cheats](https://img.shields.io/badge/Cheats-61%20listed%20%C2%B7%2019%20inputs-ff4fa3)](https://www.teekamsuthar.com/awesome-gta-6/cheat-codes)
+[![Missions](https://img.shields.io/badge/Missions-91-orange)](https://www.teekamsuthar.com/awesome-gta-6/missions)
+[![Last commit](https://img.shields.io/github/last-commit/teekamsuthar/awesome-gta-6?label=updated)](https://github.com/teekamsuthar/awesome-gta-6/commits/main)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blueviolet.svg)](contributing.md)
 
-**[🌐 Website](https://chinmaypaliwal1.github.io/awesome-gta-6/)** · **[🎮 Cheats](https://chinmaypaliwal1.github.io/awesome-gta-6/cheat-codes)** · **[📜 Missions](https://chinmaypaliwal1.github.io/awesome-gta-6/missions)** · **[📰 News](https://chinmaypaliwal1.github.io/awesome-gta-6/news)** · **[❓ FAQ](https://chinmaypaliwal1.github.io/awesome-gta-6/faq)**
+**[🌐 Website](https://www.teekamsuthar.com/awesome-gta-6/)** · **[🎮 Cheats](https://www.teekamsuthar.com/awesome-gta-6/cheat-codes)** · **[📜 Missions](https://www.teekamsuthar.com/awesome-gta-6/missions)** · **[📰 News](https://www.teekamsuthar.com/awesome-gta-6/news)** · **[❓ FAQ](https://www.teekamsuthar.com/awesome-gta-6/faq)**
 
 ⭐ **Star this repo** to get notified when the PC release, GTA 6 Online or new cheat codes drop.
 
@@ -154,7 +154,7 @@ Building a Discord bot, app or fan site? All data is **CC0 (public domain)**, so
 | [`data/sources.json`](data/sources.json) | Every link in this list, by tier |
 
 ```bash
-curl https://raw.githubusercontent.com/chinmaypaliwal1/awesome-gta-6/main/data/cheats.json
+curl https://raw.githubusercontent.com/teekamsuthar/awesome-gta-6/main/data/cheats.json
 ```
 
 ## FAQ
@@ -166,12 +166,12 @@ curl https://raw.githubusercontent.com/chinmaypaliwal1/awesome-gta-6/main/data/c
 <details><summary><b>What's the GTA 6 money cheat?</b></summary>$250,000: Up, Right, Down, Left, Up, Left, Down, Right. It unlocks after the story.</details>
 <details><summary><b>When does GTA 6 Online come out?</b></summary>No official date. Reports say 2027 (unconfirmed).</details>
 
-**[→ Full FAQ](https://chinmaypaliwal1.github.io/awesome-gta-6/faq)**
+**[→ Full FAQ](https://www.teekamsuthar.com/awesome-gta-6/faq)**
 
 ## Contributing
 
 Found a new cheat code, a bug in the mission list, fresh news or a rumor? Contributions are welcome. Read the [contributing guide](contributing.md) or open an issue:
-[Submit a cheat](https://github.com/chinmaypaliwal1/awesome-gta-6/issues/new?template=cheat.yml) · [Submit news](https://github.com/chinmaypaliwal1/awesome-gta-6/issues/new?template=news.yml) · [Submit a rumor](https://github.com/chinmaypaliwal1/awesome-gta-6/issues/new?template=rumor.yml) · [Report wrong info](https://github.com/chinmaypaliwal1/awesome-gta-6/issues/new?template=correction.yml)
+[Submit a cheat](https://github.com/teekamsuthar/awesome-gta-6/issues/new?template=cheat.yml) · [Submit news](https://github.com/teekamsuthar/awesome-gta-6/issues/new?template=news.yml) · [Submit a rumor](https://github.com/teekamsuthar/awesome-gta-6/issues/new?template=rumor.yml) · [Report wrong info](https://github.com/teekamsuthar/awesome-gta-6/issues/new?template=correction.yml)
 
 ## License
 

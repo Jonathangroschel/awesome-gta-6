@@ -3,12 +3,12 @@ description: >-
   GTA 6 (Grand Theft Auto VI) guide hub: all cheat codes, the full mission list,
   latest news, official media, map, PC release and GTA 6 Online trackers, plus
   free JSON data. Community-maintained and open source.
-url: "https://chinmaypaliwal1.github.io"
+url: "https://www.teekamsuthar.com"
 baseurl: "/awesome-gta-6"
 lang: en
 locale: en_US
-author: chinmaypaliwal1
-github_repo: https://github.com/chinmaypaliwal1/awesome-gta-6
+author: teekamsuthar
+github_repo: https://github.com/teekamsuthar/awesome-gta-6
 
 theme: jekyll-theme-cayman
 plugins:
@@ -19,7 +19,7 @@ logo: /assets/banner.png
 social:
   name: Awesome GTA 6
   links:
-    - https://github.com/chinmaypaliwal1/awesome-gta-6
+    - https://github.com/teekamsuthar/awesome-gta-6
 
 defaults:
   - scope:

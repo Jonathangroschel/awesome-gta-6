@@ -41,4 +41,4 @@ Rumors move between three lists as facts come in. **Everything under "Unverified
 - [Tez2 (@TezFunz2)](https://x.com/TezFunz2): long-time GTA dataminer
 - [GTAForums](https://gtaforums.com): datamining threads
 
-**Heard something?** [Submit a rumor](https://github.com/chinmaypaliwal1/awesome-gta-6/issues/new?template=rumor.yml) with a link to where it was said.
+**Heard something?** [Submit a rumor](https://github.com/teekamsuthar/awesome-gta-6/issues/new?template=rumor.yml) with a link to where it was said.

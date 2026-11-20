@@ -15,10 +15,10 @@ Thanks for helping keep this the most accurate GTA 6 resource on GitHub. Everyth
 
 No Git needed. Pick a template:
 
-- [Submit a cheat code](https://github.com/chinmaypaliwal1/awesome-gta-6/issues/new?template=cheat.yml)
-- [Submit news](https://github.com/chinmaypaliwal1/awesome-gta-6/issues/new?template=news.yml)
-- [Submit a rumor or leak](https://github.com/chinmaypaliwal1/awesome-gta-6/issues/new?template=rumor.yml)
-- [Report wrong information](https://github.com/chinmaypaliwal1/awesome-gta-6/issues/new?template=correction.yml)
+- [Submit a cheat code](https://github.com/teekamsuthar/awesome-gta-6/issues/new?template=cheat.yml)
+- [Submit news](https://github.com/teekamsuthar/awesome-gta-6/issues/new?template=news.yml)
+- [Submit a rumor or leak](https://github.com/teekamsuthar/awesome-gta-6/issues/new?template=rumor.yml)
+- [Report wrong information](https://github.com/teekamsuthar/awesome-gta-6/issues/new?template=correction.yml)
 
 ## Pull requests
 

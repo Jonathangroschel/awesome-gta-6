@@ -32,6 +32,6 @@ Newest first. Every item has a date and a source. Estimates and player reports a
 - [Rockstar Support](https://support.rockstargames.com): server status and known issues
 - [@RockstarGames on X](https://x.com/RockstarGames)
 
-**Know of news we missed?** [Open a news issue](https://github.com/chinmaypaliwal1/awesome-gta-6/issues/new?template=news.yml) with a link.
+**Know of news we missed?** [Open a news issue](https://github.com/teekamsuthar/awesome-gta-6/issues/new?template=news.yml) with a link.
 
-**Machine-readable:** [`data/news.json`](https://github.com/chinmaypaliwal1/awesome-gta-6/blob/main/data/news.json)
+**Machine-readable:** [`data/news.json`](https://github.com/teekamsuthar/awesome-gta-6/blob/main/data/news.json)

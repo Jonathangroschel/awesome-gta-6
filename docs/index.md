@@ -40,9 +40,9 @@ GTA 6 is **out now on PS5 and Xbox Series X\|S** (launched November 19, 2026). T
 ## For developers
 
 All the data is free JSON under CC0, so you can use it in Discord bots, apps and fan sites with no permission needed:
-[`missions.json`](https://github.com/chinmaypaliwal1/awesome-gta-6/blob/main/data/missions.json) ·
-[`cheats.json`](https://github.com/chinmaypaliwal1/awesome-gta-6/blob/main/data/cheats.json) ·
-[`news.json`](https://github.com/chinmaypaliwal1/awesome-gta-6/blob/main/data/news.json) ·
-[`sources.json`](https://github.com/chinmaypaliwal1/awesome-gta-6/blob/main/data/sources.json)
+[`missions.json`](https://github.com/teekamsuthar/awesome-gta-6/blob/main/data/missions.json) ·
+[`cheats.json`](https://github.com/teekamsuthar/awesome-gta-6/blob/main/data/cheats.json) ·
+[`news.json`](https://github.com/teekamsuthar/awesome-gta-6/blob/main/data/news.json) ·
+[`sources.json`](https://github.com/teekamsuthar/awesome-gta-6/blob/main/data/sources.json)
 
-Raw URL for direct fetching: `https://raw.githubusercontent.com/chinmaypaliwal1/awesome-gta-6/main/data/cheats.json`
+Raw URL for direct fetching: `https://raw.githubusercontent.com/teekamsuthar/awesome-gta-6/main/data/cheats.json`
